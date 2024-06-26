@@ -66,7 +66,7 @@ namespace practice
             
             return "";
         }
-
+//we have to delete the first phone number from the queue and return only number.
         public string getFirstPhone()
         {
             string[] strarr;
